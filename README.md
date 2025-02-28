@@ -89,3 +89,4 @@ Best Practices to Overcome Challenges and Ensure Smooth Collaboration:
 1. Master Branching and Merging
 2. Document Everything
 3. Learn Basic Git Commands
+   
